@@ -1,11 +1,8 @@
 # Experiment 2 – Creating and Running a Rust Project with Cargo Tool  
 
-<H3>ENTER YOUR NAME:</H3>  
-<H3>ENTER YOUR REGISTER NO:</H3>  
-<H3>EX.NO.2</H3>  
-<H3>DATE:</H3>  
-
-<H1 ALIGN =CENTER> Creating and Running a Rust Project with Cargo Tool </H1>  
+<H3>NAME: ADITYA S</H3>  
+<H3>REGISTER NO: 212223040007</H3>  
+<H3>DATE: 24/10/2025 </H3>  
 
 ## AIM:  
 To create and run a Rust project using the Cargo build system and package manager.  
@@ -39,12 +36,15 @@ STEP 6: Verify the output in the terminal. <BR>
 
 ## PROGRAM:  
 rust
-// TYPE YOUR RUST CODE HERE
+```
 fn main() {
-    println!("Hello, Rust with Cargo!");
+    println!("Hello, world!");
 }
 
-
+```
 ## OUTPUT:
+<img width="1246" height="622" alt="Screenshot 2025-10-10 104701" src="https://github.com/user-attachments/assets/dc758df3-7a42-41c2-b6a2-5d7ce3034823" />
+
 
 ## RESULT:
+ Thus creating and running a rust project with Cargo Tool is excecuted   
