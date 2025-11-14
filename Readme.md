@@ -1,7 +1,7 @@
 # Experiment 2 – Creating and Running a Rust Project with Cargo Tool  
 
-<H3>NAME: ADITYA S</H3>  
-<H3>REGISTER NO: 212223040007</H3>  
+<H3>NAME: JAI SURYA R</H3>  
+<H3>REGISTER NO: 212223230084</H3>  
 <H3>DATE: 24/10/2025 </H3>  
 
 ## AIM:  
